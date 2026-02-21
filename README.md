@@ -24,13 +24,14 @@
 - Machine Learning Project Lifecycle (7 stages)
 - Environment Setup (Google Colab & VSCode)
 - NumPy & Pandas Revision
-- Data Preprocessing Techniques:
-  - Handling duplicates
-  - Handling missing values
-  - Outlier detection and treatment (IQR method)
-  - Data standardization
-  - Categorical encoding (Label & One-Hot)
-  - Feature scaling (Min-Max & Z-Score)
+- Data Preprocessing Techniques
 ---
-
+### Lab 2: Machine Learning with Scikit-Learn – Models, Evaluation & CSV Data
+**Topics Covered:**
+- Scikit-Learn Workflow (load → split → train → predict → evaluate)
+- Train/Test Data Splitting
+- Decision Tree and K-Nearest Neighbors (KNN) Models
+- Model Evaluation (Accuracy, Classification Report, Confusion Matrix)
+- Predicting New Samples
+---
 *Note: This repository is for educational purposes only.*
