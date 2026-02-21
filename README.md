@@ -17,21 +17,8 @@
 
 ---
 
-## Lab Overview
-
-### Lab 1: Foundations - ML Lifecycle, Environment Setup & Data Preprocessing
-**Topics Covered:**
-- Machine Learning Project Lifecycle (7 stages)
-- Environment Setup (Google Colab & VSCode)
-- NumPy & Pandas Revision
-- Data Preprocessing Techniques
----
-### Lab 2: Machine Learning with Scikit-Learn – Models, Evaluation & CSV Data
-**Topics Covered:**
-- Scikit-Learn Workflow (load → split → train → predict → evaluate)
-- Train/Test Data Splitting
-- Decision Tree and K-Nearest Neighbors (KNN) Models
-- Model Evaluation (Accuracy, Classification Report, Confusion Matrix)
-- Predicting New Samples
+## Labs Completed
+- Lab 1: Foundations - ML Lifecycle, Environment Setup & Data Preprocessing
+- Lab 2: Machine Learning with Scikit-Learn – Models, Evaluation & CSV Data
 ---
 *Note: This repository is for educational purposes only.*
